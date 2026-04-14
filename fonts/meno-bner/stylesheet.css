@@ -1,0 +1,282 @@
+
+
+@font-face {
+    font-family: 'Meno Banner';
+    src: url('MenoBanner-Bold.woff2') format('woff2'),
+        url('MenoBanner-Bold.woff') format('woff'),
+        url('MenoBanner-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Meno Banner';
+    src: url('MenoBanner-BlackItalic.woff2') format('woff2'),
+        url('MenoBanner-BlackItalic.woff') format('woff'),
+        url('MenoBanner-BlackItalic.ttf') format('truetype');
+    font-weight: 900;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Meno Banner';
+    src: url('MenoBanner-Black.woff2') format('woff2'),
+        url('MenoBanner-Black.woff') format('woff'),
+        url('MenoBanner-Black.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Meno Banner';
+    src: url('MenoBanner-ExtraBold.woff2') format('woff2'),
+        url('MenoBanner-ExtraBold.woff') format('woff'),
+        url('MenoBanner-ExtraBold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Meno Banner';
+    src: url('MenoBanner-BoldItalic.woff2') format('woff2'),
+        url('MenoBanner-BoldItalic.woff') format('woff'),
+        url('MenoBanner-BoldItalic.ttf') format('truetype');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Meno Banner';
+    src: url('MenoBanner-ExtraBoldItalic.woff2') format('woff2'),
+        url('MenoBanner-ExtraBoldItalic.woff') format('woff'),
+        url('MenoBanner-ExtraBoldItalic.ttf') format('truetype');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Meno Banner';
+    src: url('MenoBanner-Light.woff2') format('woff2'),
+        url('MenoBanner-Light.woff') format('woff'),
+        url('MenoBanner-Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Meno Banner';
+    src: url('MenoBanner-Italic.woff2') format('woff2'),
+        url('MenoBanner-Italic.woff') format('woff'),
+        url('MenoBanner-Italic.ttf') format('truetype');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Meno Banner';
+    src: url('MenoBanner-LightItalic.woff2') format('woff2'),
+        url('MenoBanner-LightItalic.woff') format('woff'),
+        url('MenoBanner-LightItalic.ttf') format('truetype');
+    font-weight: 300;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Meno Banner';
+    src: url('MenoBanner-SemiBold.woff2') format('woff2'),
+        url('MenoBanner-SemiBold.woff') format('woff'),
+        url('MenoBanner-SemiBold.ttf') format('truetype');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Meno Banner';
+    src: url('MenoBanner-Regular.woff2') format('woff2'),
+        url('MenoBanner-Regular.woff') format('woff'),
+        url('MenoBanner-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Meno Banner Condensed';
+    src: url('MenoBannerCondensed-Black.woff2') format('woff2'),
+        url('MenoBannerCondensed-Black.woff') format('woff'),
+        url('MenoBannerCondensed-Black.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Meno Banner';
+    src: url('MenoBanner-SemiBoldItalic.woff2') format('woff2'),
+        url('MenoBanner-SemiBoldItalic.woff') format('woff'),
+        url('MenoBanner-SemiBoldItalic.ttf') format('truetype');
+    font-weight: 600;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Meno Banner Condensed';
+    src: url('MenoBannerCondensed-BlackItalic.woff2') format('woff2'),
+        url('MenoBannerCondensed-BlackItalic.woff') format('woff'),
+        url('MenoBannerCondensed-BlackItalic.ttf') format('truetype');
+    font-weight: 900;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Meno Banner Condensed';
+    src: url('MenoBannerCondensed-Bold.woff2') format('woff2'),
+        url('MenoBannerCondensed-Bold.woff') format('woff'),
+        url('MenoBannerCondensed-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Meno Banner Condensed';
+    src: url('MenoBannerCondensed-ExtraBold.woff2') format('woff2'),
+        url('MenoBannerCondensed-ExtraBold.woff') format('woff'),
+        url('MenoBannerCondensed-ExtraBold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Meno Banner Condensed';
+    src: url('MenoBannerCondensed-BoldItalic.woff2') format('woff2'),
+        url('MenoBannerCondensed-BoldItalic.woff') format('woff'),
+        url('MenoBannerCondensed-BoldItalic.ttf') format('truetype');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Meno Banner Condensed';
+    src: url('MenoBannerCondensed-ExtraBoldItalic.woff2') format('woff2'),
+        url('MenoBannerCondensed-ExtraBoldItalic.woff') format('woff'),
+        url('MenoBannerCondensed-ExtraBoldItalic.ttf') format('truetype');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Meno Banner Condensed';
+    src: url('MenoBannerCondensed-Italic.woff2') format('woff2'),
+        url('MenoBannerCondensed-Italic.woff') format('woff'),
+        url('MenoBannerCondensed-Italic.ttf') format('truetype');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Meno Banner Condensed';
+    src: url('MenoBannerCondensed-Light.woff2') format('woff2'),
+        url('MenoBannerCondensed-Light.woff') format('woff'),
+        url('MenoBannerCondensed-Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Meno Banner Condensed';
+    src: url('MenoBannerCondensed-LightItalic.woff2') format('woff2'),
+        url('MenoBannerCondensed-LightItalic.woff') format('woff'),
+        url('MenoBannerCondensed-LightItalic.ttf') format('truetype');
+    font-weight: 300;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Meno Banner Condensed';
+    src: url('MenoBannerCondensed-Regular.woff2') format('woff2'),
+        url('MenoBannerCondensed-Regular.woff') format('woff'),
+        url('MenoBannerCondensed-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Meno Banner Condensed';
+    src: url('MenoBannerCondensed-SemiBold.woff2') format('woff2'),
+        url('MenoBannerCondensed-SemiBold.woff') format('woff'),
+        url('MenoBannerCondensed-SemiBold.ttf') format('truetype');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Meno Banner Extra Condensed';
+    src: url('MenoBannerExtraCondensed-Black.woff2') format('woff2'),
+        url('MenoBannerExtraCondensed-Black.woff') format('woff'),
+        url('MenoBannerExtraCondensed-Black.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Meno Banner Condensed';
+    src: url('MenoBannerCondensed-SemiBoldItalic.woff2') format('woff2'),
+        url('MenoBannerCondensed-SemiBoldItalic.woff') format('woff'),
+        url('MenoBannerCondensed-SemiBoldItalic.ttf') format('truetype');
+    font-weight: 600;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Meno Banner Extra Condensed';
+    src: url('MenoBannerExtraCondensed-Bold.woff2') format('woff2'),
+        url('MenoBannerExtraCondensed-Bold.woff') format('woff'),
+        url('MenoBannerExtraCondensed-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Meno Banner Extra Condensed';
+    src: url('MenoBannerExtraCondensed-BlackItalic.woff2') format('woff2'),
+        url('MenoBannerExtraCondensed-BlackItalic.woff') format('woff'),
+        url('MenoBannerExtraCondensed-BlackItalic.ttf') format('truetype');
+    font-weight: 900;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Meno Banner Extra Condensed';
+    src: url('MenoBannerExtraCondensed-BoldItalic.woff2') format('woff2'),
+        url('MenoBannerExtraCondensed-BoldItalic.woff') format('woff'),
+        url('MenoBannerExtraCondensed-BoldItalic.ttf') format('truetype');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+
